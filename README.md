@@ -1,2 +1,11 @@
-# puppy-talk
-우리 댕댕이랑 대화하자! 생성형 AI 기반 채팅 애플리케이션 프로젝트 🐾 
+## How to run 🐳
+### MacOS
+```
+cd scripts
+sh build.sh
+```
+### WindowsOS
+```
+cd scripts
+sh .build.sh
+```
