@@ -1,4 +1,4 @@
-package org.course.registration.common.config;
+package com.puppy.talk.common.config;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 

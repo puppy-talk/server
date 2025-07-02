@@ -1,4 +1,4 @@
-package org.course.registration;
+package com.puppy.talk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
