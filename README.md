@@ -1,5 +1,6 @@
 ## System Architecture
-<img width="789" alt="스크린샷 2024-07-14 오후 6 49 41" src="https://github.com/user-attachments/assets/47cca8d3-dfb7-4d13-a3cd-d3d2682a83df">
+![스크린샷 2025-07-02 오후 11 56 12](https://github.com/user-attachments/assets/c2e2e104-d4cb-43ae-b826-8709c5a7ff16)
+
 
 
 ## How to run 🐳
