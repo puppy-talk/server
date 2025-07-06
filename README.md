@@ -1,5 +1,6 @@
 ## System Architecture
-![스크린샷 2025-07-03 오전 12 02 21](https://github.com/user-attachments/assets/558450e8-3ba9-47e7-a389-27137fe9bbf1)
+![스크린샷 2025-07-06 오후 7 41 45](https://github.com/user-attachments/assets/d3e61b7b-5545-4615-a7f6-468932e1e676)
+
 
 ## How to run 🐳
 ### MacOS
