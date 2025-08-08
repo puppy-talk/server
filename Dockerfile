@@ -1,9 +1,6 @@
-FROM amazoncorretto:17-alpine-jdk
+FROM amazoncorretto:21-alpine-jdk
 
-WORKDIR application
-COPY ./dependencies ./
-COPY ./spring-boot-loader ./
-COPY ./snapshot-dependencies ./
-COPY ./application ./
+WORKDIR /application
+COPY application-api/build/libs/application-api.jar app.jar
 
-ENTRYPOINT ["java", "-Dspring.profiles.active=dev", "-Duser.timezone=Asia/Seoul", "org.springframework.boot.loader.JarLauncher"]
+ENTRYPOINT ["java", "-Dspring.profiles.active=docker", "-Duser.timezone=Asia/Seoul", "-jar", "app.jar"]
